@@ -1,0 +1,5 @@
+{
+    "id": "centos_user",
+    "comment": "I am a centos_user user",
+    "platform": "centos"
+}
